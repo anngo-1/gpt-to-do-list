@@ -4,10 +4,6 @@ This is a simple to-do list app that utilizes GPT-3, a state-of-the-art language
 
 The web app is deployed here: [https://gpt-to-do-list.vercel.app/](url)
 
-## IMPORTANT
-As of 4:42pm PST 6/17, code will not run on Safari. Working on a fix.
-
-
 ## Run in development server
 To run in development server you will need to paste your API key into /components/task.tsx, line 34.
 
